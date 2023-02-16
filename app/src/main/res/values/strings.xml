@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sweet Experience</string>
+    <string name="facebook_client_token">570153978c5273cacfbbf70287801219</string>
+    <string name="facebook_app_id">941509777008693</string>
+    <string name="fb_login_protocol_scheme">fb941509777008693</string>
+</resources>

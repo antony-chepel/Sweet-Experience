@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_mother"
+    app:startDestination="@id/oskskosijxhucz">
+
+    <fragment
+        android:id="@+id/oskskosijxhucz"
+        android:name="com.alchemist.a.saxczzxz.utydfg.Dapaalpxkoxkozjihcus"
+        android:label="opcoihfe"
+        tools:layout="@layout/iwowisjuhxcsa" >
+        <action
+            android:id="@+id/dokdjifeuhndfs"
+            app:destination="@id/boivjuchhygge" />
+    </fragment>
+    <fragment
+        android:id="@+id/boivjuchhygge"
+        android:name="com.alchemist.a.ewfwef.terwsadas.Eqplwokkosjimxzchjisa"
+        android:label="polxokxicshud"
+        tools:layout="@layout/suwijsiuhxcsa" >
+        <action
+            android:id="@+id/nxjijzuhhudw"
+            app:destination="@id/nkxoxozisjdw" />
+    </fragment>
+    <fragment
+        android:id="@+id/nkxoxozisjdw"
+        android:name="com.alchemist.a.saxczzxz.Nowkksijdjixzc"
+        android:label="hjfufudijdsfedsf"
+        tools:layout="@layout/cookxijhcusw" >
+        <action
+            android:id="@+id/adpppdokcjivx"
+            app:destination="@id/mopcpcoxjidhf" />
+    </fragment>
+    <fragment
+        android:id="@+id/mopcpcoxjidhf"
+        android:name="com.alchemist.a.trwwesad.Hywiowkskodjiijxc"
+        android:label="vogkfdkijuhxcvd"
+        tools:layout="@layout/oqokqkosijhuxcs" >
+        <action
+            android:id="@+id/clxlxlckdsijf"
+            app:destination="@id/jjudusiiokkoxc" />
+    </fragment>
+    <fragment
+        android:id="@+id/jjudusiiokkoxc"
+        android:name="com.alchemist.a.ewfwef.Eoqokqkojisxhucs"
+        android:label="bbgogookvkocjibf"
+        tools:layout="@layout/teijiwjihushuczx" />
+</navigation>
